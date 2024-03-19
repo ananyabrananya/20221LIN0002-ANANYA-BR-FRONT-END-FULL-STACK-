@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Simple Web Page</title>
+        <style>
+            body{
+            font-family:Arial,sans-serif;
+            background-color:FFf4f4f4;
+            margin:0;
+            padding:0;
+            text-align:center;
+            }
+            Header{
+            background-color:lightblue;
+            color:#fff;
+            padding:10px;
+            } 
+            Section{
+            margin:20;
+            padding:20px; 
+            background-color:#fff;
+            border-radius:5px;
+            box-shadow:0 0 10px rgba(0.0,0,0.1);
+        }
+        Footer{
+            background-color:lightblue;
+            color:#fff;
+            padding:10px;
+            position:fixed;
+            bottom:0;
+            width:100%;
+        } 
+        </style>
+    </head>
+    <body>
+        <header>
+           <h1>Simple Web Page</h1>
+        </header>
+        <section>
+            <p>Once upon a time, there was a rabbit who was known for his speed. He loved boasting about how fast he could run and would often make fun of other animals for being slow. 
+                One day, he came across a tortoise who was minding its own business.
+               Mocking the tortoise, the rabbit said, “You are so slow! I bet I could beat you in a race without even trying.”
+                The tortoise, wise and composed, replied, “I may be slow, but I am determined. 
+                If you are up for a race, let’s give it a try.”
+                Excited to prove his speed, the rabbit agreed and the race began. 
+                The rabbit zoomed ahead, leaving the tortoise far behind. 
+                Confident of his victory, the rabbit decided to take a nap under a shady tree since he was so far ahead.
+                Meanwhile, the tortoise kept plodding along steadily, never losing sight of the finish line. 
+                Slowly and steadily, he made progress. 
+                When the rabbit woke up, he was surprised to see the tortoise nearing the finish line.
+                With a burst of energy, the rabbit sprinted towards the finish line, but it was too late. 
+                The tortoise had already crossed it.
+                The rabbit was shocked and realized that his overconfidence had cost him the race. 
+                He admitted his mistake and learned an important lesson about patience, determination, and not underestimating others.</p>
+
+                <p align="center"><b>MORAL OF THE STORY:Slow and steady wins the race. 
+                    It’s not always about being the fastest, but about staying focused, determined, and never underestimating the abilities of others.</b></p>         
+                <img src="https://moralstoryminute.com/wp-content/uploads/2023/06/The-Rabbit-and-The-Tortoise-Story-in-English.png" width="400" height="300">
+        </section>
+        <footer>
+            <a href="https://www.firstcry.com/intelli/articles/the-thirsty-crow-story-with-moral-for-kids/">This is a link</a><br><br>
+        </footer>
+    </body>
+</html>
