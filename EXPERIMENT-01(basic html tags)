@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Labsheet 01</title>
+        <style>
+            table, th, td {
+              border: 1px solid black;
+            }
+            
+            th, td {
+              padding: 10px;
+            }
+            </style>
+    </head>
+<body>
+<center><h1>Labsheet 01</h1></center>
+    <body bgcolor="lightblue">
+<p>My first paragraph.</p>
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h1>
+<h5>This is heading 5</h2>
+<h6>This is heading 6</h3>
+    
+<P>This is a Table</P>
+<table> 
+    <tr> 
+        <th>Firstname</th> 
+        <th>Lastname</th> 
+        <th>Age</th> 
+    </tr> 
+    <tr> 
+        <td>Priya</td> 
+        <td>Sharma</td> 
+        <td>24</td> 
+    </tr> 
+    <tr> 
+        <td>Arun</td> 
+        <td>Singh</td> 
+        <td>32</td> 
+    </tr> 
+    <tr> 
+        <td>Sam</td> 
+        <td>Watson</td> 
+        <td>41</td> 
+    </tr> 
+</table><br> 
+
+  <table>
+    <tr>
+      <th colspan="2">Name</th>
+      <th>Age</th>
+    </tr>
+    <tr>
+      <td>Sonu</td>
+      <td>sunny</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Chaithanya</td>
+      <td>Chinzz</td>
+      <td>21</td>
+    </tr>
+  </table> <br> 
+
+  <table>
+    <tr>
+      <th>Name</th>
+      <td>MANVITHA</td>
+    </tr>
+    <tr>
+      <th rowspan="2">class</th>
+      <td>diploma</td>
+    </tr>
+    <tr>
+      <td>diploma</td>
+  </tr>
+  </table> <br>
+
+    <a href="https://www.instagram.com/">This is a link</a><br><br>
+    <img src="https://wallpapercave.com/wp/Ms6Ifn2.jpg"  width="400" height="200"><br><br>
+    <a href="https://i.pinimg.com/originals/f9/69/c8/f969c8f6fbb2dc540ebda6ad8cbc5c6d.jpg">
+        <img src="https://i.pinimg.com/originals/de/31/23/de31234978ae91884d1c0ac26669f120.jpg" width="300" height="200">
+    </a><br><br>
+    <marquee width="60%" direction="up" height="100px">
+        This is a sample scrolling text that has scrolls in the upper direction.
+        </marquee>
+</body>
+</html>
